@@ -1,0 +1,17 @@
+input    : e22_ab_ready.json
+output   : None
+sequence : M13mp18
+readonly : False
+rule     : xstap.all3
+score    : sum
+func     : dG:50
+nsol     : 20
+minlength: 20
+maxlength: 60
+dontb    : 21
+verbose  : 1
+seed     : 1
+permute  : False
+writeall : False
+csv      : True
+sort     : False

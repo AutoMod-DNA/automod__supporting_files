@@ -1,0 +1,35 @@
+
+backend = CPU
+steps = 2000
+
+sim_type = min
+
+dt = 0.001
+verlet_skin = 0.15
+
+T = 303K
+
+interaction_type = DNA2
+max_backbone_force = 5
+
+seed = 0
+
+salt_concentration = 0.5
+
+topology = D6_am.top
+conf_file = D6_am_start.conf
+
+trajectory_file = trajectory_0.dat
+print_conf_interval = 10000
+trajectory_print_momenta = false
+
+energy_file = energy_0.dat
+print_energy_every = 10000
+no_stdout_energy = false
+time_scale = linear
+
+restart_step_counter = 1
+refresh_vel = 1
+
+lastconf_file = start_1.conf
+

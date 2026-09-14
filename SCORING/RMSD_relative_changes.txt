@@ -1,0 +1,55 @@
+D0:
+
+dRMSD_% = (1.7nm - 6.8nm) / (6.8nm) = -0.75 = -75%
+
+AutoMod compared to Manual (best of previous methods)
+
+D1:
+
+dRMSD_% = (6.8nm - 14.5nm) / (14.5nm) =  −0.531034... = -53%
+
+AutoMod compared to MagicDNA
+
+D5:
+
+dRMSD_% = (5.0nm - 12.3nm) / (12.3nm) = −0.593495... = -59%
+
+AutoMod compared to MagicDNA
+
+D2:
+
+dRMSD_% = (7.0nm - 18.6nm) / (18.6nm) = −0.623655... = -62%
+
+AutoMod compared to MagicDNA
+
+D6:
+
+dRMSD_% = (5.4nm - 27.6nm) / (27.6nm) = −0.804347... = -80%
+
+AutoMod compared to MagicDNA
+
+D3:
+
+dRMSD_% = (13.8nm - 15.9nm) / (15.9nm) = −0.132075... = -13%
+
+AutoMod compared to MagicDNA
+
+D7:
+
+dRMSD_% = (7.3nm - 25.7nm) / (25.7nm) =  −0.715953... = -72%
+
+AutoMod compared to MagicDNA
+
+D4:
+
+dRMSD_% = (32.8nm - 53.9nm) / (53.9nm) = −0.391465... = -39%
+
+AutoMod compared to MagicDNA
+
+D8:
+
+dRMSD_% = (15.6nm - 31.1nm) / (31.1nm) = −0.498392... = -50%
+
+AutoMod compared to MagicDNA
+
+Improvements range from -13% to -80% with an average of 56%.

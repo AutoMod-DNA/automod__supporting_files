@@ -1,0 +1,141 @@
+1, 0, 1, 0.2
+2, 3, 2, 0.2
+3, 7, 4, 0.1
+4, 6, 5, 0.3
+5, 15, 8, 0.1
+6, 12, 11, 0.3
+7, 13, 10, 0.1
+8, 14, 9, 0.3
+9, 17, 16, 0.2
+10, 17, 6, 0.1
+11, 16, 15, 0.2
+12, 14, 13, 0.2
+13, 12, 13, 0.2
+14, 7, 8, 0.2
+15, 9, 10, 0.2
+16, 11, 0, 0.1
+17, 5, 4, 0.2
+18, 3, 8, 0.3
+19, 2, 1, 0.2
+20, 17, 6, 0.3
+21, 16, 15, 2.3
+22, 14, 9, 0.3
+23, 12, 11, 0.3
+24, 7, 4, 0.1
+25, 10, 1, 0.3
+26, 5, 6, 0.6
+27, 3, 2, 1.2
+28, 0, 11, 0.3
+29, 17, 16, 0.6
+30, 15, 14, 0.2
+31, 13, 12, 0.2
+32, 7, 8, 0.2
+33, 9, 10, 0.2
+34, 17, 6, 0.6
+35, 16, 15, 0.6
+36, 14, 13, 1.2
+37, 5, 4, 1.8
+38, 12, 11, 1.5
+39, 3, 8, 0.3
+40, 2, 1, 0.2
+41, 0, 1, 0.2
+42, 7, 16, 0.3
+43, 9, 14, 0.3
+44, 10, 13, 0.1
+45, 17, 16, 1.2
+46, 15, 8, 0.3
+47, 12, 13, 0.6
+48, 5, 6, 2.1
+49, 4, 3, 0.2
+50, 2, 9, 0.1
+51, 0, 11, 1.2
+52, 7, 4, 0.3
+53, 10, 9, 0.2
+54, 17, 6, 0.9
+55, 15, 14, 1.1
+56, 12, 11, 0.3
+58, 17, 16, 1.8
+59, 3, 8, 0.6
+60, 15, 14, 1.2
+61, 7, 16, 0.3
+62, 10, 13, 0.3
+63, 2, 1, 0.6
+64, 12, 13, 1.8
+65, 0, 1, 0.6
+67, 15, 14, 1.8
+69, 7, 8, 1.2
+70, 9, 10, 1.2
+71, 12, 11, 3.0
+72, 3, 2, 0.2
+73, 0, 11, 0.3
+74, 17, 6, 0.9
+75, 15, 8, 0.6
+76, 14, 13, 2.4
+78, 7, 4, 0.6
+79, 9, 2, 0.6
+80, 10, 1, 0.3
+81, 5, 6, 0.6
+82, 3, 8, 0.9
+84, 15, 16, 0.2
+85, 14, 9, 0.6
+86, 0, 1, 0.8
+87, 12, 11, 3.0
+88, 7, 4, 1.5
+89, 10, 13, 0.3
+90, 17, 6, 2.1
+92, 15, 8, 1.2
+93, 14, 9, 0.6
+94, 3, 2, 1.8
+96, 0, 1, 0.8
+97, 7, 16, 0.6
+98, 10, 13, 0.3
+100, 15, 14, 0.6
+101, 5, 6, 1.5
+103, 3, 8, 0.6
+104, 2, 9, 0.9
+106, 7, 4, 2.1
+107, 10, 9, 0.6
+108, 15, 16, 0.6
+109, 0, 11, 1.2
+110, 14, 13, 2.4
+111, 12, 13, 1.1
+113, 17, 6, 3.0
+114, 3, 8, 2.4
+115, 15, 14, 2.4
+116, 7, 16, 0.6
+117, 10, 1, 0.6
+118, 2, 9, 0.9
+120, 0, 1, 1.2
+122, 5, 4, 0.6
+123, 15, 8, 1.5
+57, 5, 6, 0.3, LOOP
+66, 17, 16, 0.2, LOOP
+68, 5, 4, 0.2, LOOP
+77, 12, 13, 0.2, LOOP
+83, 17, 16, 0.2, LOOP
+91, 5, 4, 0.2, LOOP
+95, 12, 11, 0.6, LOOP
+99, 17, 6, 1.2, LOOP
+102, 12, 11, 0.6, LOOP
+105, 17, 16, 0.2, LOOP
+112, 5, 6, 0.6, LOOP
+119, 12, 13, 0.2, LOOP
+121, 17, 16, 0.2, LOOP
+Helix 0 has an average crossover density of 11/299 = 0.0368 (1/bp). Target is 0.0400 (1/bp).
+Helix 1 has an average crossover density of 12/302 = 0.0397 (1/bp). Target is 0.0400 (1/bp).
+Helix 2 has an average crossover density of 11/305 = 0.0361 (1/bp). Target is 0.0400 (1/bp).
+Helix 3 has an average crossover density of 11/310 = 0.0355 (1/bp). Target is 0.0400 (1/bp).
+Helix 4 has an average crossover density of 12/315 = 0.0381 (1/bp). Target is 0.0400 (1/bp).
+Helix 5 has an average crossover density of 12/319 = 0.0376 (1/bp). Target is 0.0400 (1/bp).
+Helix 6 has an average crossover density of 15/377 = 0.0398 (1/bp). Target is 0.0400 (1/bp).
+Helix 7 has an average crossover density of 13/371 = 0.0350 (1/bp). Target is 0.0400 (1/bp).
+Helix 8 has an average crossover density of 14/369 = 0.0379 (1/bp). Target is 0.0400 (1/bp).
+Helix 9 has an average crossover density of 14/369 = 0.0379 (1/bp). Target is 0.0400 (1/bp).
+Helix 10 has an average crossover density of 13/367 = 0.0354 (1/bp). Target is 0.0400 (1/bp).
+Helix 11 has an average crossover density of 13/361 = 0.0360 (1/bp). Target is 0.0400 (1/bp).
+Helix 12 has an average crossover density of 15/419 = 0.0358 (1/bp). Target is 0.0400 (1/bp).
+Helix 13 has an average crossover density of 16/423 = 0.0378 (1/bp). Target is 0.0400 (1/bp).
+Helix 14 has an average crossover density of 15/428 = 0.0350 (1/bp). Target is 0.0400 (1/bp).
+Helix 15 has an average crossover density of 16/433 = 0.0370 (1/bp). Target is 0.0400 (1/bp).
+Helix 16 has an average crossover density of 17/436 = 0.0390 (1/bp). Target is 0.0400 (1/bp).
+Helix 17 has an average crossover density of 16/439 = 0.0364 (1/bp). Target is 0.0400 (1/bp).

@@ -1,0 +1,17 @@
+input    : automod.json
+output   : None
+sequence : M13mp18
+readonly : False
+rule     : xstap.all3
+score    : sum
+func     : dG:50
+nsol     : 3
+minlength: 15
+maxlength: 60
+dontb    : 15
+verbose  : 1
+seed     : 3
+permute  : False
+writeall : False
+csv      : True
+sort     : False

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" height="180.0" width="120.0" viewBox="0 0 120.0 180.0" preserveAspectRatio="xMidYMid meet" id="Cadnano_Ortho" ><g id="VirtualHelices" transform="translate(80.000 80.000)" ><circle cx="20.0" cy="80.0" r="10.0" style="fill:#f2ca9a; stroke:#cc6600; stroke-width:1;" id="circle_vh25" />
+<circle cx="20.0" cy="60.0" r="10.0" style="fill:#f2ca9a; stroke:#cc6600; stroke-width:1;" id="circle_vh24" />
+<circle cx="20.0" cy="40.0" r="10.0" style="fill:#f2ca9a; stroke:#cc6600; stroke-width:1;" id="circle_vh23" />
+<circle cx="20.0" cy="20.0" r="10.0" style="fill:#f2ca9a; stroke:#cc6600; stroke-width:1;" id="circle_vh22" />
+<circle cx="20.0" cy="-0.0" r="10.0" style="fill:#f2ca9a; stroke:#cc6600; stroke-width:1;" id="circle_vh21" />
+<circle cx="20.0" cy="-20.0" r="10.0" style="fill:#f2ca9a; stroke:#cc6600; stroke-width:1;" id="circle_vh20" />
+<circle cx="20.0" cy="-40.0" r="10.0" style="fill:#f2ca9a; stroke:#cc6600; stroke-width:1;" id="circle_vh19" />
+<circle cx="20.0" cy="-60.0" r="10.0" style="fill:#f2ca9a; stroke:#cc6600; stroke-width:1;" id="circle_vh18" />
+<circle cx="-60.0" cy="-60.0" r="10.0" style="fill:#f2ca9a; stroke:#cc6600; stroke-width:1;" id="circle_vh0" />
+<circle cx="-40.0" cy="-60.0" r="10.0" style="fill:#f2ca9a; stroke:#cc6600; stroke-width:1;" id="circle_vh11" />
+<circle cx="-20.0" cy="-60.0" r="10.0" style="fill:#f2ca9a; stroke:#cc6600; stroke-width:1;" id="circle_vh12" />
+<circle cx="-60.0" cy="-40.0" r="10.0" style="fill:#f2ca9a; stroke:#cc6600; stroke-width:1;" id="circle_vh1" />
+<circle cx="-40.0" cy="-40.0" r="10.0" style="fill:#f2ca9a; stroke:#cc6600; stroke-width:1;" id="circle_vh10" />
+<circle cx="-20.0" cy="-40.0" r="10.0" style="fill:#f2ca9a; stroke:#cc6600; stroke-width:1;" id="circle_vh13" />
+<circle cx="-60.0" cy="-20.0" r="10.0" style="fill:#f2ca9a; stroke:#cc6600; stroke-width:1;" id="circle_vh2" />
+<circle cx="-40.0" cy="-20.0" r="10.0" style="fill:#f2ca9a; stroke:#cc6600; stroke-width:1;" id="circle_vh9" />
+<circle cx="-20.0" cy="-20.0" r="10.0" style="fill:#f2ca9a; stroke:#cc6600; stroke-width:1;" id="circle_vh14" />
+<circle cx="-60.0" cy="-0.0" r="10.0" style="fill:#f2ca9a; stroke:#cc6600; stroke-width:1;" id="circle_vh3" />
+<circle cx="-40.0" cy="-0.0" r="10.0" style="fill:#f2ca9a; stroke:#cc6600; stroke-width:1;" id="circle_vh8" />
+<circle cx="-20.0" cy="-0.0" r="10.0" style="fill:#f2ca9a; stroke:#cc6600; stroke-width:1;" id="circle_vh15" />
+<circle cx="-60.0" cy="20.0" r="10.0" style="fill:#f2ca9a; stroke:#cc6600; stroke-width:1;" id="circle_vh4" />
+<circle cx="-40.0" cy="20.0" r="10.0" style="fill:#f2ca9a; stroke:#cc6600; stroke-width:1;" id="circle_vh7" />
+<circle cx="-20.0" cy="20.0" r="10.0" style="fill:#f2ca9a; stroke:#cc6600; stroke-width:1;" id="circle_vh16" />
+<circle cx="-60.0" cy="40.0" r="10.0" style="fill:#f2ca9a; stroke:#cc6600; stroke-width:1;" id="circle_vh5" />
+<circle cx="-40.0" cy="40.0" r="10.0" style="fill:#f2ca9a; stroke:#cc6600; stroke-width:1;" id="circle_vh6" />
+<circle cx="-20.0" cy="40.0" r="10.0" style="fill:#f2ca9a; stroke:#cc6600; stroke-width:1;" id="circle_vh17" />
+</g>
+<g id="VirtualHelixLabels" font-size="15" font-family="'Source Sans Pro', sans-serif" text-anchor="middle" transform="translate(80.000 80.000)" ><text x="20.0" y="84.0" id="label_vh25" >25</text>
+<text x="20.0" y="64.0" id="label_vh24" >24</text>
+<text x="20.0" y="44.0" id="label_vh23" >23</text>
+<text x="20.0" y="24.0" id="label_vh22" >22</text>
+<text x="20.0" y="4.0" id="label_vh21" >21</text>
+<text x="20.0" y="-16.0" id="label_vh20" >20</text>
+<text x="20.0" y="-36.0" id="label_vh19" >19</text>
+<text x="20.0" y="-56.0" id="label_vh18" >18</text>
+<text x="-60.0" y="-56.0" id="label_vh0" >0</text>
+<text x="-40.0" y="-56.0" id="label_vh11" >11</text>
+<text x="-20.0" y="-56.0" id="label_vh12" >12</text>
+<text x="-60.0" y="-36.0" id="label_vh1" >1</text>
+<text x="-40.0" y="-36.0" id="label_vh10" >10</text>
+<text x="-20.0" y="-36.0" id="label_vh13" >13</text>
+<text x="-60.0" y="-16.0" id="label_vh2" >2</text>
+<text x="-40.0" y="-16.0" id="label_vh9" >9</text>
+<text x="-20.0" y="-16.0" id="label_vh14" >14</text>
+<text x="-60.0" y="4.0" id="label_vh3" >3</text>
+<text x="-40.0" y="4.0" id="label_vh8" >8</text>
+<text x="-20.0" y="4.0" id="label_vh15" >15</text>
+<text x="-60.0" y="24.0" id="label_vh4" >4</text>
+<text x="-40.0" y="24.0" id="label_vh7" >7</text>
+<text x="-20.0" y="24.0" id="label_vh16" >16</text>
+<text x="-60.0" y="44.0" id="label_vh5" >5</text>
+<text x="-40.0" y="44.0" id="label_vh6" >6</text>
+<text x="-20.0" y="44.0" id="label_vh17" >17</text>
+</g>
+</svg>

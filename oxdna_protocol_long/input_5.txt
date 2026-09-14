@@ -1,0 +1,39 @@
+
+backend = CUDA
+
+sim_type = MD
+steps = 100e6
+T = 303K
+interaction_type = DNA2
+verlet_skin = 0.15
+
+salt_concentration = 0.5
+
+seed = 0
+
+thermostat = john
+diff_coeff = 2.5
+newtonian_steps = 103
+dt = 0.005
+
+topology = topology.top
+conf_file = start_5.conf
+
+cells_auto_optimisation = false
+max_density_multiplier = 5
+
+use_edge = true
+CUDA_avoid_cpu_calculations = false
+
+trajectory_file = trajectory_5_MEAN.dat
+print_conf_interval = 1000000
+trajectory_print_momenta = false
+
+energy_file = energy_5_MEAN.dat
+print_energy_every = 1000000
+no_stdout_energy = false
+time_scale = linear
+
+restart_step_counter = 1
+refresh_vel = 1
+
